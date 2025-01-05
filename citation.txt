@@ -1,0 +1,7 @@
+@article{REPO012,
+    author = "Fu, Guanyiman and Xiong, Fengchao and Lu, Jianfeng and Zhou, Jun",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    publisher = "IEEE",
+    title = "{Ssumamba: Spatial-spectral selective state space model for hyperspectral image denoising}",
+    year = "2024"
+}
