@@ -1,0 +1,1 @@
+python main.py model=ssumamba_sscs gpu_ids=\'0,1,2,3,4,5,6,7\' data=icvl  data.bs=5 noise.params.sigma_max=95 trainer.params.num_sanity_val_steps=0 test=icvl95  
